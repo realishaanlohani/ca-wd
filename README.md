@@ -11,5 +11,5 @@ TABLE
 Images*5
 
 Each action is added with comments to help the reader understand what I am writting.
- 
 
+Image sources are from Pinterest.
